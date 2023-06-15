@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/http//:kousco.github.io/metaversus-concept/static/css/main.f47d9088.css",
+    "main.js": "/http//:kousco.github.io/metaversus-concept/static/js/main.05078f65.js",
+    "index.html": "/http//:kousco.github.io/metaversus-concept/index.html",
+    "main.f47d9088.css.map": "/http//:kousco.github.io/metaversus-concept/static/css/main.f47d9088.css.map",
+    "main.05078f65.js.map": "/http//:kousco.github.io/metaversus-concept/static/js/main.05078f65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f47d9088.css",
+    "static/js/main.05078f65.js"
+  ]
+}
