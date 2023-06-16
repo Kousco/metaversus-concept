@@ -1,13 +1,41 @@
 {
   "files": {
-    "main.css": "/https//:kousco.github.io/metaversus-concept/static/css/main.f47d9088.css",
-    "main.js": "/https//:kousco.github.io/metaversus-concept/static/js/main.05078f65.js",
-    "index.html": "/https//:kousco.github.io/metaversus-concept/index.html",
-    "main.f47d9088.css.map": "/https//:kousco.github.io/metaversus-concept/static/css/main.f47d9088.css.map",
-    "main.05078f65.js.map": "/https//:kousco.github.io/metaversus-concept/static/js/main.05078f65.js.map"
+    "main.css": "/metaversus-concept/static/css/main.f47d9088.css",
+    "main.js": "/metaversus-concept/static/js/main.6724cc92.js",
+    "static/media/planet-03.png": "/metaversus-concept/static/media/planet-03.23cecc8a02f69da7b9d9.png",
+    "static/media/planet-04.png": "/metaversus-concept/static/media/planet-04.effd6ebd689a31b7eec9.png",
+    "static/media/planet-05.png": "/metaversus-concept/static/media/planet-05.de5415c084805072bcc4.png",
+    "static/media/planet-02.png": "/metaversus-concept/static/media/planet-02.00076d04ee9c8aca9dab.png",
+    "static/media/planet-01.png": "/metaversus-concept/static/media/planet-01.5b9ca36e13d392dc569f.png",
+    "static/media/planet-09.png": "/metaversus-concept/static/media/planet-09.41d44e335136ed7faa79.png",
+    "static/media/cover.png": "/metaversus-concept/static/media/cover.8735bdc00b22fbe3f77e.png",
+    "static/media/whats-new.png": "/metaversus-concept/static/media/whats-new.bd2de1c8629c0366eb2b.png",
+    "static/media/map.png": "/metaversus-concept/static/media/map.b20735974f0ba20e0d02.png",
+    "static/media/get-started.png": "/metaversus-concept/static/media/get-started.e5976ea692ad8a55d629.png",
+    "static/media/planet-08.png": "/metaversus-concept/static/media/planet-08.5d66962cd44540e2dd49.png",
+    "static/media/planet-06.png": "/metaversus-concept/static/media/planet-06.49ede4d4d8e7f179a091.png",
+    "static/media/planet-07.png": "/metaversus-concept/static/media/planet-07.d6cfc48cbb72d0a4b031.png",
+    "static/media/stamp.png": "/metaversus-concept/static/media/stamp.63fafc12a80e6a33f46a.png",
+    "static/media/people-01.png": "/metaversus-concept/static/media/people-01.ae410d49aa08224e8fee.png",
+    "static/media/people-03.png": "/metaversus-concept/static/media/people-03.4c46e48874f32f9347b5.png",
+    "static/media/people-02.png": "/metaversus-concept/static/media/people-02.e2e024b7a44dda7722be.png",
+    "static/media/arrow.svg": "/metaversus-concept/static/media/arrow.dd38835031810701705ce82d5022539c.svg",
+    "static/media/linkedin.svg": "/metaversus-concept/static/media/linkedin.3da5a8d81a11e74034c852e703098a26.svg",
+    "static/media/instagram.svg": "/metaversus-concept/static/media/instagram.71e12ffa5481ab350b809c9609323802.svg",
+    "static/media/twitter.svg": "/metaversus-concept/static/media/twitter.d45e812ea016e8fe5d346102fe6590a3.svg",
+    "static/media/headset.svg": "/metaversus-concept/static/media/headset.779244941d71eca3eaaf218caed4da71.svg",
+    "static/media/menu.svg": "/metaversus-concept/static/media/menu.7758d60d4be6a7158cf50ed36f19aee2.svg",
+    "static/media/vercel.svg": "/metaversus-concept/static/media/vercel.5e08467f178dea838461e95d8c49cfd9.svg",
+    "static/media/vrpano.svg": "/metaversus-concept/static/media/vrpano.5ea2a9992182d63f4378d82c4bb1fc31.svg",
+    "static/media/arrow-down.svg": "/metaversus-concept/static/media/arrow-down.12d042e3387c2abb75e8818f127c1314.svg",
+    "index.html": "/metaversus-concept/index.html",
+    "static/media/facebook.svg": "/metaversus-concept/static/media/facebook.ea482fb24898748ffffbe4c9c4a53724.svg",
+    "static/media/search.svg": "/metaversus-concept/static/media/search.d8ec3ba7e2535ccd3ddbb26e028ee012.svg",
+    "main.f47d9088.css.map": "/metaversus-concept/static/css/main.f47d9088.css.map",
+    "main.6724cc92.js.map": "/metaversus-concept/static/js/main.6724cc92.js.map"
   },
   "entrypoints": [
     "static/css/main.f47d9088.css",
-    "static/js/main.05078f65.js"
+    "static/js/main.6724cc92.js"
   ]
 }
