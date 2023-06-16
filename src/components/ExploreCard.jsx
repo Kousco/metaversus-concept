@@ -4,6 +4,7 @@ import { motion } from 'framer-motion';
 
 import { styles } from '../constants/index';
 import { fadeIn } from '../utils/motion';
+import { headsetIMG } from '../assets';
 
 const ExploreCard = ({ id, imgUrl, title, index, active, handleClick }) => (
   <motion.div
@@ -28,7 +29,7 @@ const ExploreCard = ({ id, imgUrl, title, index, active, handleClick }) => (
           className={`${styles.flexCenter} w-[60px] h-[60px] rounded-[24px] glassmorphism mb-[16px]`}
         >
           <img
-            src="/headset.svg"
+            src={headsetIMG}
             alt="headset"
             className="w-1/2 h-1/2 object-contain"
           />

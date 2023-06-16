@@ -1,27 +1,30 @@
+import { planet1IMG, planet2IMG, planet3IMG, planet4IMG, planet5IMG,
+  vrpanoIMG, headsetIMG, planet6IMG, planet7IMG, planet8IMG, twitterIMG,
+  linkedinIMG, facebookIMG, instagramIMG } from '../assets'
 export const exploreWorlds = [
   {
     id: 'world-1',
-    imgUrl: '/planet-01.png',
+    imgUrl: planet1IMG,
     title: 'The Hogwarts',
   },
   {
     id: 'world-2',
-    imgUrl: '/planet-02.png',
+    imgUrl: planet2IMG,
     title: 'The Upside Down',
   },
   {
     id: 'world-3',
-    imgUrl: '/planet-03.png',
+    imgUrl: planet3IMG,
     title: 'Kadirojo Permai',
   },
   {
     id: 'world-4',
-    imgUrl: '/planet-04.png',
+    imgUrl: planet4IMG,
     title: 'Paradise Island',
   },
   {
     id: 'world-5',
-    imgUrl: '/planet-05.png',
+    imgUrl: planet5IMG,
     title: 'Hawkins Labs',
   },
 ];
@@ -34,13 +37,13 @@ export const startingFeatures = [
 
 export const newFeatures = [
   {
-    imgUrl: '/vrpano.svg',
+    imgUrl: vrpanoIMG,
     title: 'A new world',
     subtitle:
         'We have the latest update with new world for you to try never mind',
   },
   {
-    imgUrl: '/headset.svg',
+    imgUrl: headsetIMG,
     title: 'More realistic',
     subtitle:
         'In the latest update, your eyes are narrow, making the world more realistic than ever',
@@ -49,19 +52,19 @@ export const newFeatures = [
 
 export const insights = [
   {
-    imgUrl: '/planet-06.png',
+    imgUrl: planet6IMG,
     title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
     subtitle:
         'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
   },
   {
-    imgUrl: '/planet-07.png',
+    imgUrl: planet7IMG,
     title: '7 tips to easily master the madness of the Metaverse',
     subtitle:
         'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
   },
   {
-    imgUrl: '/planet-08.png',
+    imgUrl: planet8IMG,
     title: 'With one platform you can explore the whole world virtually',
     subtitle:
         'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
@@ -71,19 +74,19 @@ export const insights = [
 export const socials = [
   {
     name: 'twitter',
-    url: '/twitter.svg',
+    url: twitterIMG,
   },
   {
     name: 'linkedin',
-    url: '/linkedin.svg',
+    url: linkedinIMG,
   },
   {
     name: 'instagram',
-    url: '/instagram.svg',
+    url: instagramIMG,
   },
   {
     name: 'facebook',
-    url: '/facebook.svg',
+    url: facebookIMG,
   },
 ];
 

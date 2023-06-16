@@ -5,6 +5,7 @@ import { socials } from '../constants';
 
 import { styles } from '../constants/index';
 import { footerVariants } from '../utils/motion';
+import { headsetIMG } from '../assets';
 
 const Footer = () => (
   <motion.footer
@@ -21,7 +22,7 @@ const Footer = () => (
         </h4>
         <button type="button" className="flex items-center h-fit py-4 px-6 bg-[#25618B] rounded-[32px] gap-[12px]">
           <img
-            src="/headset.svg"
+            src={headsetIMG}
             alt="headset"
             className="w-[24px] h-[24px] object-contain"
           />

@@ -5,6 +5,7 @@ import { TypingText } from '../components';
 
 import { styles } from '../constants/index';
 import { fadeIn, staggerContainer } from '../utils/motion';
+import { arrowDownIMG } from '../assets';
 
 const About = () => (
   <section className={`${styles.paddings} relative z-10`}>
@@ -36,7 +37,7 @@ const About = () => (
       </motion.p>
       <motion.img
         variants={fadeIn('up', 'tween', 0.3, 1)}
-        src='/arrow-down.svg'
+        src={arrowDownIMG}
         alt='arrow down'
         className='w-[18px] h-[28px] object-contain mt-[28px]'
       />

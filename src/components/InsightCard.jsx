@@ -3,6 +3,7 @@
 import { motion } from "framer-motion";
 
 import { fadeIn } from "../utils/motion";
+import { arrowIMG } from "../assets";
 
 const InsightCard = ({ imgUrl, title, subtitle, index }) => (
   <motion.div
@@ -28,7 +29,7 @@ const InsightCard = ({ imgUrl, title, subtitle, index }) => (
         className="lg:flex hidden items-center justify-center w-[100px] h-[100px] rounded-full bg-transparent border-[1px] border-white"
       >
         <img
-          src="/arrow.svg"
+          src={arrowIMG}
           alt="arrow"
           className="w-[40%] h-[40%] object-contain"
         />
